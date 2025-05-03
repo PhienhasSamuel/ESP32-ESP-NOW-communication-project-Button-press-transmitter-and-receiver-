@@ -1,0 +1,2 @@
+# ESP32-ESP-NOW-communication-project-Button-press-transmitter-and-receiver-
+This project demonstrates the use of ESP-NOW, a peer-to-peer wireless communication protocol, for real-time communication between two ESP32 boards. One ESP32 board is used as a transmitter with a push button, and the other as a receiver that listens for the button press and displays the corresponding message on the Serial Monitor.
