@@ -1,0 +1,15 @@
+*.vscode/
+*.DS_Store
+__pycache__/
+*.bin
+*.elf
+*.hex
+*.ini
+*.pyc
+*.log
+*.tmp
+*.bak
+*.swp
+build/
+dist/
+*.out
